@@ -1,0 +1,63 @@
+2026-02-16 12:14:44,837 | INFO | my_app | Creating connection with db
+2026-02-16 12:14:44,845 | INFO | my_app | Connection created successfully
+2026-02-16 12:14:44,886 | INFO | my_app | Tables created successfully
+2026-02-16 13:21:27,097 | INFO | my_app | Creating connection with db
+2026-02-16 13:21:27,105 | INFO | my_app | Connection created successfully
+2026-02-16 13:21:27,145 | INFO | my_app | Creating connection with db
+2026-02-16 13:21:27,147 | INFO | my_app | Connection created successfully
+2026-02-16 13:21:27,151 | INFO | my_app | Tables created successfully
+2026-02-16 13:23:05,816 | INFO | my_app | Creating connection with db
+2026-02-16 13:23:05,816 | INFO | my_app | Connection created successfully
+2026-02-16 13:23:05,876 | INFO | my_app | Creating connection with db
+2026-02-16 13:23:05,877 | INFO | my_app | Connection created successfully
+2026-02-16 13:23:05,879 | INFO | my_app | Tables created successfully
+2026-02-16 13:24:08,049 | INFO | my_app | Creating connection with db
+2026-02-16 13:24:08,049 | INFO | my_app | Connection created successfully
+2026-02-16 13:24:08,051 | INFO | my_app | Creating connection with db
+2026-02-16 13:24:08,051 | INFO | my_app | Connection created successfully
+2026-02-16 13:24:08,052 | INFO | my_app | Tables created successfully
+2026-02-16 13:27:11,840 | INFO | my_app | Creating connection with db
+2026-02-16 13:27:11,841 | INFO | my_app | Connection created successfully
+2026-02-16 13:27:11,843 | INFO | my_app | Creating connection with db
+2026-02-16 13:27:11,843 | INFO | my_app | Connection created successfully
+2026-02-16 13:27:11,844 | INFO | my_app | Tables created successfully
+2026-02-16 13:27:26,940 | INFO | my_app | User created successfully
+2026-02-16 13:27:44,698 | ERROR | my_app | User retrieval failed: 'Connection' object has no attribute 'fetchone'
+2026-02-16 13:27:44,699 | WARNING | my_app | Login failed: Invalid email or password
+2026-02-16 13:28:06,329 | ERROR | my_app | User retrieval failed: 'Connection' object has no attribute 'fetchone'
+2026-02-16 13:28:06,329 | WARNING | my_app | Login failed: Invalid email or password
+2026-02-16 13:28:33,598 | ERROR | my_app | User retrieval failed: 'Connection' object has no attribute 'fetchone'
+2026-02-16 13:28:33,598 | WARNING | my_app | Login failed: Invalid email or password
+2026-02-16 13:29:05,594 | INFO | my_app | Creating connection with db
+2026-02-16 13:29:05,597 | INFO | my_app | Connection created successfully
+2026-02-16 13:29:05,599 | INFO | my_app | Creating connection with db
+2026-02-16 13:29:05,599 | INFO | my_app | Connection created successfully
+2026-02-16 13:29:05,600 | INFO | my_app | Tables created successfully
+2026-02-16 13:29:16,381 | ERROR | my_app | User retrieval failed: 'Connection' object has no attribute 'fetchone'
+2026-02-16 13:29:16,381 | WARNING | my_app | Login failed: Invalid email or password
+2026-02-16 13:30:49,072 | INFO | my_app | Creating connection with db
+2026-02-16 13:30:49,073 | INFO | my_app | Connection created successfully
+2026-02-16 13:30:49,109 | INFO | my_app | Creating connection with db
+2026-02-16 13:30:49,110 | INFO | my_app | Connection created successfully
+2026-02-16 13:30:49,111 | INFO | my_app | Tables created successfully
+2026-02-16 13:30:59,407 | ERROR | my_app | User retrieval failed: 'Connection' object has no attribute 'fetchone'
+2026-02-16 13:30:59,408 | WARNING | my_app | Login failed: Invalid email or password
+2026-02-16 13:31:27,670 | INFO | my_app | Creating connection with db
+2026-02-16 13:31:27,671 | INFO | my_app | Connection created successfully
+2026-02-16 13:31:27,714 | INFO | my_app | Creating connection with db
+2026-02-16 13:31:27,715 | INFO | my_app | Connection created successfully
+2026-02-16 13:31:27,716 | INFO | my_app | Tables created successfully
+2026-02-16 13:31:36,794 | ERROR | my_app | User retrieval failed: 'Connection' object has no attribute 'fetchone'
+2026-02-16 13:31:36,804 | WARNING | my_app | Login failed: Invalid email or password
+2026-02-16 13:33:35,415 | INFO | my_app | Creating connection with db
+2026-02-16 13:33:35,416 | INFO | my_app | Connection created successfully
+2026-02-16 13:33:35,417 | INFO | my_app | Creating connection with db
+2026-02-16 13:33:35,418 | INFO | my_app | Connection created successfully
+2026-02-16 13:33:35,418 | INFO | my_app | Tables created successfully
+2026-02-16 13:33:44,544 | ERROR | my_app | User retrieval failed: Connection.fetchone() missing 1 required positional argument: 'query'
+2026-02-16 13:33:44,544 | WARNING | my_app | Login failed: Invalid email or password
+2026-02-16 13:34:20,923 | INFO | my_app | Creating connection with db
+2026-02-16 13:34:20,923 | INFO | my_app | Connection created successfully
+2026-02-16 13:34:20,925 | INFO | my_app | Creating connection with db
+2026-02-16 13:34:20,925 | INFO | my_app | Connection created successfully
+2026-02-16 13:34:20,947 | INFO | my_app | Tables created successfully

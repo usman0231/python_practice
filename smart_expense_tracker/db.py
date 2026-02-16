@@ -25,5 +25,13 @@ class Connection():
         self.cursor.execute(query, params)
         return self.cursor
     
+    def fetchone(self, query, params=()):
+        self.cursor.execute(query, params)
+        return self.cursor.fetchone()
+    
+    def fetchall(self, query, params=()):
+        self.cursor.execute(query, params)
+        return self.cursor.fetchall()
+
     def commit(self):
         self.conn.commit()
